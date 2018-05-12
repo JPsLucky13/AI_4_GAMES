@@ -1,0 +1,10 @@
+A Star Values: 
+Average AStar RunTime: 8.54
+Average AStar Nodes Into Open List: 574
+Average AStar Nodes Into Closed List: 11
+Average AStar Cost: 389.0561
+Dijkstra Values: 
+Average Dijkstra RunTime: 88.96
+Average Dijkstra Nodes Into Open List: 929
+Average Dijkstra Nodes Into Closed List: 503
+Average Dijkstra Cost: 321.705
